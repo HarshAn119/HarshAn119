@@ -20,6 +20,6 @@ As a web developer, I enjoy using my obsessive attention to detail, my unequivoc
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshAn119)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/HarshAn119&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshAn119&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/https://github.com/HarshAn119)  
