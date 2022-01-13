@@ -1,5 +1,5 @@
 # Hi, I'm Harsh Anand 🖐
-### "I don't get lucky. I make my own luck"
+### "I don't have Dreams, I have Goals.  Now its on the next one."
 
 ![Views](https://gpvc.arturio.dev/HarshAn119)  
 I am a full-stack web developer and a competitive coder. I love programming, traveling and I'm a foodie.
