@@ -1,6 +1,7 @@
 # Hi, I'm Harsh Anand 🖐
 ### I don't get lucky. I make my own luck.
 
+![Profile views](https://gpvc.arturio.dev/HarshAn119)  
 I am a full-stack web developer and a competitive coder. I love programming, traveling and I'm a foodie.
 
 As a web developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
@@ -21,5 +22,3 @@ As a web developer, I enjoy using my obsessive attention to detail, my unequivoc
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshAn119)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshAn119&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/HarshAn119)  
