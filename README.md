@@ -1,5 +1,5 @@
-### Hi, I'm Harsh Anand 🖐
-##### I don't get lucky. I make my own luck
+# Harsh Anand 🖐
+### I don't get lucky. I make my own luck
 I am a full-stack web developer and a competitive coder. I love programming, traveling and I'm a foodie.
 
 As a web developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
