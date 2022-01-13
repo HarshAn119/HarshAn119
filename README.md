@@ -22,4 +22,4 @@ As a web developer, I enjoy using my obsessive attention to detail, my unequivoc
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshAn119&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/HarshAn119)  
+![Profile views](https://gpvc.arturio.dev/HarshAn119)  
