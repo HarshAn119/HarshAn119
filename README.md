@@ -12,9 +12,9 @@ As a web developer, I enjoy using my obsessive attention to detail, my unequivoc
 * 💻 HTML, CSS, JS
 * 😍 C++
 
-🔭 I’m always working on something   
+🔭 I’m always working on something.   
 🌱 I’m currently learning Data Structures and Algorithms.  
-👯 I’m always available to collaborate on building amazing projects.  
+👯 I’m available to collaborate on building amazing projects.  
 📫 How to reach me: harshanand119@gmail.com   
 
 
