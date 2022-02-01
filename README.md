@@ -1,6 +1,3 @@
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 # 💫About Me :
 🔭 I’m always working on something.   
 🌱 I’m currently learning Data Structures and Algorithms.  
