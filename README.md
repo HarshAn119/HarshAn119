@@ -2,7 +2,7 @@
 🔭 I’m always working on something.   
 🌱 I’m currently learning Data Structures and Algorithms.  
 👯 I’m available to collaborate on building amazing projects.  
-📫 How to reach me: harshanand119@gmail.com   
+📫 How to reach me: jobsforHarsh119@gmail.com   
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-anand-3446141b0) 
